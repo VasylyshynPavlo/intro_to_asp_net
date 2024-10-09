@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "kK4A2GrUAKzxTiQL9eIya8ppw18/LbJ5wKgwawNlP7J97JSla88mQzOUNT/g5Pbac0SSHYF8Fzy/w5V2j8RAeQ==",
+  "dgSpecHash": "7dYutBwqx1hID7Q/Sub/jkKUbjdK+eH4jXYMq3XayPfbB5S6+WG2/4vCKDweI6Cv9Qqe7qo6j7KMhHhEgyUpnQ==",
   "success": true,
   "projectFilePath": "/home/pashhun/asp_net/intro_to_asp_net/intro_to_asp_net/intro_to_asp_net.csproj",
   "expectedPackageFiles": [
-    "/home/pashhun/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.8/microsoft.aspnetcore.app.ref.8.0.8.nupkg.sha512"
+    "/home/pashhun/.nuget/packages/microsoft.netcore.app.runtime.win-x64/8.0.8/microsoft.netcore.app.runtime.win-x64.8.0.8.nupkg.sha512",
+    "/home/pashhun/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.8/microsoft.aspnetcore.app.ref.8.0.8.nupkg.sha512",
+    "/home/pashhun/.nuget/packages/microsoft.aspnetcore.app.runtime.win-x64/8.0.8/microsoft.aspnetcore.app.runtime.win-x64.8.0.8.nupkg.sha512",
+    "/home/pashhun/.nuget/packages/microsoft.netcore.app.host.win-x64/8.0.8/microsoft.netcore.app.host.win-x64.8.0.8.nupkg.sha512"
   ],
   "logs": []
 }
