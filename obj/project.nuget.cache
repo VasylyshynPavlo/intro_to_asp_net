@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kK4A2GrUAKzxTiQL9eIya8ppw18/LbJ5wKgwawNlP7J97JSla88mQzOUNT/g5Pbac0SSHYF8Fzy/w5V2j8RAeQ==",
+  "success": true,
+  "projectFilePath": "/home/pashhun/asp_net/intro_to_asp_net/intro_to_asp_net/intro_to_asp_net.csproj",
+  "expectedPackageFiles": [
+    "/home/pashhun/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.8/microsoft.aspnetcore.app.ref.8.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
